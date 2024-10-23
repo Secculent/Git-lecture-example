@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         // Some important code on master
+
+        // Some code for onboarding layout maybe
     }
 }
